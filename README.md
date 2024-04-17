@@ -10,7 +10,9 @@ You have finally discovered my Github profile.
 
 [![Linkedin Badge](https://img.shields.io/badge/live-ali-ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/live-ali-ahmed)]
 
-[![Upwork Badge](https://img.shields.io/badge/UpWork-alia118?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/alia118)
+[![Upwork Badge](https://img.shields.io/badge/UpWork-alia118?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/alia118)]
+
+[![Fiverr Badge](https://img.shields.io/badge/fiverr-imaliahmad?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/imaliahmad)]
 
 [![Linkedin Badge](https://img.shields.io/badge/-live-ali-ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/live-ali-ahmed/)](https://www.linkedin.com/in/live-ali-ahmed/)
 [![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)
