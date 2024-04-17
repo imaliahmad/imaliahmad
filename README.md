@@ -4,7 +4,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <div align="center">
-<span style="margin-bottom: 150px"> Let's discuss your project on Upwork or Fiverr.</span>
+<span style="margin-bottom:15px"> Let's discuss your project on Upwork or Fiverr.</span> <br><br>
 
 [![Upwork Badge](https://img.shields.io/badge/UpWork-alia118?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/alia118)
 [![Fiverr Badge](https://img.shields.io/badge/fiverr-imaliahmad?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/imaliahmad)
