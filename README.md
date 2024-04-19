@@ -1,7 +1,3 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 < full-stack-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <div align="center">
 <span style="margin-bottom:15px">You have finally discovered my Github profile. Let's discuss your project on Upwork or Fiverr.</span> <br><br>
