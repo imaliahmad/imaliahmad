@@ -10,7 +10,7 @@
 </div>
  <br><br>
 
-👋 Glad to see you here! I'm Ali Ahmed, a <b>Full Stack Developer</b> with a strong passion for .Net and open-source. I'm fun to work with, I am keen to learn new technology as well as helping others solve their problems and blockers. I manage my life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building large-scale applications. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices.
+👋 Glad to see you here! I'm Ali Ahmed, a <b>Full Stack Developer</b> with a strong passion for .Net and open-source. I'm fun to work with, I am keen to learn new technologies as well as helping others solve their problems and blockers. I manage my life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building large-scale applications. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices.
 
 
 
@@ -30,7 +30,7 @@
 
 ### Tech Stack
 
-I mostly work with **.Net**, specifically **.Net Core** in the backend with **Azure** as the cloud. Recently, I have been tinkering with **NetSuite**.
+I mostly work with **.Net**, specifically **.Net Core** in the backend, **Angular/Blazor** in the frontend and **Azure** as the cloud. Recently, I have been tinkering with **NetSuite**.
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -40,7 +40,6 @@ I mostly work with **.Net**, specifically **.Net Core** in the backend with **Az
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 <br><br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -48,6 +47,7 @@ I mostly work with **.Net**, specifically **.Net Core** in the backend with **Az
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
