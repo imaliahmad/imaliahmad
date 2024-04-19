@@ -2,8 +2,10 @@
 <div align="center">
 <span style="margin-bottom:15px">You have finally discovered my Github profile. Let's discuss your project on Upwork/Fiverr.</span> <br><br>
 
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=aliahmad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/live-ali-ahmed/)
 [![Upwork Badge](https://img.shields.io/badge/UpWork-alia118?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/alia118)
 [![Fiverr Badge](https://img.shields.io/badge/fiverr-imaliahmad?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/imaliahmad)
+[![GitHub followers](https://img.shields.io/github/followers/imaliahmad.svg?label=Follow%20@imaliahmad&style=social)](https://github.com/imaliahmad/)
 
 </div>
  <br><br>
@@ -47,11 +49,32 @@ I mostly work with **.Net**, specifically **.Net Core** in the backend with **Az
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
-### Let's connect!
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
 
-Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
-
-**Let's code, connect, and create awesome things together!**
